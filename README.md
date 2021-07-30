@@ -24,6 +24,8 @@ Then an executable file named *combineSomGerm* will appear
 Syntax:
 ```
 ./uniqueTree [input trees] [options]
+```
+```
 [input trees] : trees in newick format
 ```
 
