@@ -17,7 +17,7 @@ cd uniqueTree-1.0
 make
 ```
 
-Then an executable file named *combineSomGerm* will appear
+Then an executable file named *uniqueTree* will appear
 
 ## Usage
 
